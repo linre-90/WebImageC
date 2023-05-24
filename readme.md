@@ -5,9 +5,10 @@ WIC is a command-line program that is distributed for windows via exe file.
 
 ## Installation
 
-1. Download zipped executable
-2. Unzip and enjoy
-3. (optional but strongly recommended) add WIC to PATH and it can be launched from any directory by typing wic to explorer address bar.
+_Windows is probably very scared about this executable and you might get warnings_
+
+1. Download executable
+2. (optional but strongly recommended) add WIC to PATH and it can be launched from any directory by typing wic to explorer address bar.
 
 ## Commands
 
