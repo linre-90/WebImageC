@@ -7,7 +7,7 @@ WIC is a command-line program that is distributed for windows via exe file.
 
 _Windows is probably very scared about this executable and you might get warnings_
 
-1. Download executable
+1. [Download executable](https://github.com/linre-90/WebImageC/releases/tag/wic-release)
 2. (optional but strongly recommended) add WIC to PATH and it can be launched from any directory by typing wic to explorer address bar.
 
 ## Commands
