@@ -1,7 +1,6 @@
 # W.I.C - Web Image Converter
 
-Wic is very simple python program that converts png, jpg and jpeg images to webp format.
-WIC is a command-line program that is distributed for windows via exe file.
+WIC is very simple python program that converts png, jpg and jpeg images to webp format.
 
 ## Installation
 
